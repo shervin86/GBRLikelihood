@@ -1,7 +1,9 @@
 #ifndef GBRMATH
 #define GBRMATH
 
-#include "DataFormats/Math/interface/VDTMath.h"
+#include "vdt/vdtMath.h"
+
+//#include "vdt/vdtMath.h"
 #include <cmath>
 
 namespace gbrmath {

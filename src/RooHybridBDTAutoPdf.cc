@@ -65,7 +65,7 @@
 #include "RooCFunction1Binding.h"
 #include "TH1D.h"
 #include "omp.h"
-#include "DataFormats/Math/interface/VDTMath.h"
+#include "vdt/vdtMath.h"
 #include <stdlib.h>
 #include <malloc.h>
 #include "../interface/GBRArrayUtils.h"

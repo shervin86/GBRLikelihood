@@ -1,5 +1,6 @@
 #include "../interface/GBRArrayUtils.h" 
-#include "DataFormats/Math/interface/VDTMath.h"
+//#include "vdt/vdtMath.h"
+#include "vdt/vdtMath.h"
 #include <limits>
 #include <algorithm>    
     
